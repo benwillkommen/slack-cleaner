@@ -1,4 +1,4 @@
-#Slack Cleaner
+# Slack Cleaner
 This script (probably) deletes all your Slack messages, for all channels in a given Slack Workspace. It is intended to be run from the Chrome Devtools console.
 
 ## Usage
